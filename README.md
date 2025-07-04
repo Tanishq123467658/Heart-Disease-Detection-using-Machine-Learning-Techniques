@@ -142,6 +142,6 @@ To contribute:
 
 ## Support
 
-For bug reports, feature requests, or general questions, please open an issue or reach out to **Tanishq** on GitHub.
+For bug reports, feature requests, or general questions, please open an issue or reach out to me on GitHub.
 
 ---
